@@ -78,7 +78,8 @@ Her bir sprint döneminde, en öncelikli ve en çok değer katacak story'leri be
 <img width="351" alt="Ekran Resmi 2023-06-19 00 27 54" src="https://github.com/Fashion-Flow/Fashion-Flow/assets/113055548/c3c267a8-a564-4426-9a68-9c0960d4b744">
   
 
-  ![Screenshot 2]
+  ![Screenshot 2]![Ekran Kaydı 2023-07-03 23 41 38](https://github.com/AkgulMuhammed/Fashion-Flow/assets/113055548/75478ee7-bd1c-493c-a6aa-227e34972b4b)
+
 
 <img width="351" alt="Ekran Resmi 2023-06-19 00 28 03" src="https://github.com/Fashion-Flow/Fashion-Flow/assets/113055548/5d7bd182-4da7-4cda-92f5-bea47aec555b">
 
